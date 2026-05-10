@@ -1,0 +1,9 @@
+{
+	"id": "random-task-selector",
+	"name": "Random Task Selector",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Select a random task from a Kanban-style note. Pick which columns/heading groups to pull from via a popup with toggles.",
+	"author": "Haven",
+	"isDesktopOnly": false
+}
